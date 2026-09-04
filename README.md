@@ -1,19 +1,21 @@
 <div align="center">
 
+<!-- HERO -->
+
 <img src="https://i.pinimg.com/736x/2d/25/d7/2d25d7194859c7576b33ef1ec59aab9a.jpg" width="100%"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Laravel+Developer+%F0%9F%9A%80;Flutter+Mobile+Developer+%F0%9F%93%B1;Building+Useful+Digital+Solutions+%F0%9F%92%A1;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Fransiskus+%F0%9F%91%8B;Web+%26+Mobile+Developer+%F0%9F%92%BB;Laravel+%7C+Flutter+%7C+PHP+%7C+MySQL;Building+Digital+Solutions+%F0%9F%9A%80;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat" />
 
 <br><br>
 
 <a href="https://github.com/frans-gith">
-<img src="https://img.shields.io/badge/GitHub-frans--gith-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-frans--gith-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://accounts.google.com/SignOutOptions?hl=id&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:EMAIL_KAMU">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br><br>
@@ -24,37 +26,47 @@
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-Hi! I'm **Fransiskus Oktavianus Bimo Prasetyo**, a Web & Mobile Developer who is passionate about creating useful, responsive, and user-friendly digital applications.
+## 👨‍💻 About Me
 
-I mainly work with **Laravel, PHP, Flutter, Dart, and MySQL**. I also enjoy exploring **UI/UX design, database management, REST API, and information system development**.
+</div>
 
-Currently, I'm continuously learning and improving my development skills by building real-world projects and experimenting with new technologies.
+Hi! I'm **Fransiskus Oktavianus Bimo Prasetyo**, a Web & Mobile Developer who enjoys turning ideas into useful digital applications.
 
-> 💡 **Learn • Build • Improve • Repeat**
+I'm mainly interested in **web development with Laravel and PHP** and **mobile development with Flutter and Dart**. I also enjoy working with databases, designing interfaces, and developing information systems.
 
----
-
-## ⚡ Tech Stack
+I like exploring new technologies, solving problems through code, and continuously improving the applications I build.
 
 <div align="center">
 
-### 🌐 Web Development
+### 💡 My mindset
 
-<img src="https://i.pinimg.com/1200x/ff/bd/dd/ffbddd37b2ceffe750fc534bfa11429d.jpg" />
+**Learn → Build → Test → Improve → Repeat**
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Tech Stack
+
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=php,laravel,html,css,tailwind,javascript&theme=dark&perline=6"/>
 
 <br><br>
 
-### 📱 Mobile Development
+### 📱 Mobile
 
-<img src="https://skillicons.dev/icons?i=flutter,dart&perline=6" />
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=6"/>
 
 <br><br>
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Development Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,postman,figma&theme=dark&perline=7"/>
 
 </div>
 
@@ -65,24 +77,30 @@ Currently, I'm continuously learning and improving my development skills by buil
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎓 SIAKAD Sekolah
+<h2>🎓 SIAKAD Sekolah</h2>
 
-Sistem Informasi Akademik berbasis web untuk membantu pengelolaan data akademik sekolah.
+<p>
+Sistem Informasi Akademik berbasis web yang dirancang untuk membantu sekolah dalam mengelola berbagai kebutuhan akademik.
+</p>
 
-**Features**
+### ✨ Highlights
 
-📚 Mata Pelajaran
-👨‍🎓 Data Siswa
-👨‍🏫 Data Guru
-📅 Jadwal Pelajaran
-📝 Nilai Akademik
-📢 Informasi Sekolah
+* 👨‍🎓 Student Management
+* 👨‍🏫 Teacher Management
+* 📚 Subject Management
+* 📅 Class Schedule
+* 📝 Academic Grades
+* 📢 School Information
+* 📊 Academic Dashboard
 
-**Tech**
+<br>
+
+**Tech Stack**
 
 `Laravel` `PHP` `MySQL` `Tailwind CSS`
 
@@ -90,20 +108,25 @@ Sistem Informasi Akademik berbasis web untuk membantu pengelolaan data akademik 
 
 <td width="50%" valign="top">
 
-### 💈 Barbershop
+<h2>💈 Barbershop</h2>
 
-Sistem manajemen barbershop untuk mengelola booking, layanan, pelanggan, dan transaksi.
+<p>
+Sistem manajemen barbershop yang membantu proses booking, layanan, pelanggan, dan transaksi.
+</p>
 
-**Features**
+### ✨ Highlights
 
-📅 Booking
-💇 Layanan
-👤 Pelanggan
-💰 Transaksi
-🧾 Pembayaran
-📊 Dashboard
+* 📅 Online Booking
+* 💇 Service Management
+* 👤 Customer Management
+* 💰 Cashier
+* 🧾 Payment
+* 📊 Dashboard
+* 📈 Transaction Management
 
-**Tech**
+<br>
+
+**Tech Stack**
 
 `Laravel` `PHP` `MySQL` `JavaScript`
 
@@ -115,20 +138,24 @@ Sistem manajemen barbershop untuk mengelola booking, layanan, pelanggan, dan tra
 
 <td width="50%" valign="top">
 
-### 🛒 Kasir Mobile
+<h2>🛒 Kasir Mobile</h2>
 
-Aplikasi Point of Sale berbasis Flutter untuk membantu proses penjualan dan transaksi.
+<p>
+Aplikasi Point of Sale berbasis Flutter untuk membantu proses penjualan dan pengelolaan transaksi.
+</p>
 
-**Features**
+### ✨ Highlights
 
-🛍️ Produk
-🛒 Keranjang
-💳 Pembayaran
-🧾 Transaksi
-📦 Data Produk
-📊 Penjualan
+* 🛍️ Product Management
+* 🛒 Shopping Cart
+* 💳 Payment
+* 🧾 Transaction
+* 📦 Product Data
+* 📊 Sales Data
 
-**Tech**
+<br>
+
+**Tech Stack**
 
 `Flutter` `Dart` `MySQL`
 
@@ -136,53 +163,105 @@ Aplikasi Point of Sale berbasis Flutter untuk membantu proses penjualan dan tran
 
 <td width="50%" valign="top">
 
-### 📚 Academic Management
+<h2>📚 Academic Management</h2>
 
-Platform untuk membantu pengelolaan informasi akademik dan mempermudah akses informasi sekolah.
+<p>
+Platform informasi akademik yang membantu sekolah, guru, dan siswa dalam mengakses serta mengelola informasi.
+</p>
 
-**Focus**
+### ✨ Highlights
 
-🎓 Academic
-📊 Data Management
-📅 Scheduling
-📝 Assessment
-👥 User Management
+* 🎓 Academic Information
+* 👥 User Management
+* 📅 Scheduling
+* 📝 Assessment
+* 📊 Data Management
 
-**Tech**
+<br>
+
+**Tech Stack**
 
 `Laravel` `PHP` `MySQL`
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# 🛠️ What I Do
-
 <div align="center">
 
-|  🌐 Web Development  | 📱 Mobile Development |
-| :------------------: | :-------------------: |
-| Laravel Applications |  Flutter Applications |
-|       REST API       |  Android Applications |
-|    Authentication    |       Mobile UI       |
-|     CRUD Systems     |    POS Applications   |
+# 🧩 What I Do
 
-|   🗄️ Database  |      🎨 UI/UX     |
-| :-------------: | :---------------: |
-|      MySQL      | Responsive Design |
-| Database Design |     Dashboard     |
-| Data Management |  Modern Interface |
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Web Development**
+
+Laravel
+PHP
+REST API
+Authentication
+
+</td>
+
+<td align="center" width="25%">
+
+### 📱
+
+**Mobile**
+
+Flutter
+Dart
+Android
+POS
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Database**
+
+MySQL
+SQLite
+CRUD
+Database Design
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+
+**UI / UX**
+
+Responsive UI
+Dashboard
+Modern Interface
+User Experience
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -192,23 +271,21 @@ Platform untuk membantu pengelolaan informasi akademik dan mempermudah akses inf
 
 </div>
 
----
-
-# 🔥 Contribution Streak
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=frans-gith&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=frans-gith&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=frans-gith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=frans-gith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
@@ -218,54 +295,21 @@ Platform untuk membantu pengelolaan informasi akademik dan mempermudah akses inf
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frans-gith&bg_color=0f172a&color=60a5fa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frans-gith&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
-
-# 💻 Coding Journey
 
 <div align="center">
-
-```text
-                    🚀 MY DEVELOPMENT JOURNEY
-
-                           │
-                           ▼
-                    💡 Learn New Things
-                           │
-                           ▼
-                    🧠 Understand
-                           │
-                           ▼
-                    💻 Write Code
-                           │
-                           ▼
-                    🧪 Test & Debug
-                           │
-                           ▼
-                    🚀 Build Projects
-                           │
-                           ▼
-                    📈 Improve
-                           │
-                           └──────────────► 🔁 Repeat
-```
-
-</div>
-
----
 
 # 🌱 Currently Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,mysql,javascript,git&perline=7"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,mysql,javascript,git&theme=dark&perline=7"/>
 
 <br><br>
 
-**Laravel** • **Flutter** • **REST API** • **UI/UX** • **Database Architecture** • **Software Engineering**
+`REST API` • `UI/UX` • `Database Architecture` • `Software Engineering`
 
 </div>
 
@@ -273,77 +317,108 @@ Platform untuk membantu pengelolaan informasi akademik dan mempermudah akses inf
 
 # 🎯 2026 Goals
 
-```text
-████████████████████████████████████████  Web Development
-████████████████████████████████████░░░░  Mobile Development
-██████████████████████████████████░░░░░░  Database
-██████████████████████████████░░░░░░░░░░  UI / UX
-████████████████████████████░░░░░░░░░░░░  REST API
-███████████████████████░░░░░░░░░░░░░░░░░  Software Architecture
-██████████████████░░░░░░░░░░░░░░░░░░░░░░  Open Source
-```
+<div align="center">
 
-* 🚀 Build more production-ready applications
-* 📱 Improve Flutter development
-* 🌐 Deepen Laravel & PHP knowledge
-* 🔐 Learn more about application security
-* 🧩 Improve software architecture
-* 🎨 Create better UI/UX
-* 🌎 Contribute to open-source projects
-* 💼 Build a professional developer portfolio
+| Goal                         |          Progress         |
+| :--------------------------- | :-----------------------: |
+| 🌐 Laravel & Web Development | ████████████████████ 100% |
+| 📱 Flutter Development       |  █████████████████░░░ 85% |
+| 🗄️ Database Architecture    |  ████████████████░░░░ 80% |
+| 🎨 UI / UX                   |  ██████████████░░░░░░ 70% |
+| 🔌 REST API                  |  █████████████░░░░░░░ 65% |
+| 🧩 Software Architecture     |  ███████████░░░░░░░░░ 55% |
+| 🌎 Open Source               |  ████████░░░░░░░░░░░░ 40% |
+
+</div>
 
 ---
+
+<div align="center">
+
+# 💻 My Development Journey
+
+```text
+        💡 IDEA
+          │
+          ▼
+       🎨 DESIGN
+          │
+          ▼
+       💻 CODE
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+      🐛 DEBUG
+          │
+          ▼
+       🚀 BUILD
+          │
+          ▼
+       📈 IMPROVE
+          │
+          └─────────────── 🔁 REPEAT
+```
+
+</div>
+
+---
+
+<div align="center">
 
 # 💡 Developer Philosophy
 
-<div align="center">
-
-### `"Don't just write code. Build solutions."`
+### "Don't just write code. Build solutions."
 
 <br>
 
-**Think** 💡
+**Think 💡**
+
 ↓
-**Design** 🎨
+
+**Design 🎨**
+
 ↓
-**Code** 💻
+
+**Code 💻**
+
 ↓
-**Test** 🧪
+
+**Test 🧪**
+
 ↓
-**Improve** 🚀
+
+**Improve 🚀**
 
 </div>
 
 ---
 
-# 📫 Connect With Me
-
 <div align="center">
 
+# 📫 Let's Connect
+
+<br>
+
 <a href="https://github.com/frans-gith">
-<img src="https://img.shields.io/badge/GitHub-frans--gith-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-frans--gith-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:EMAIL_KAMU">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-161b22?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**If you like my projects, don't forget to give them a ⭐**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%91%8B;See+you+in+my+next+project+%F0%9F%9A%80;Keep+coding+and+keep+learning+%F0%9F%92%BB" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+coding+%F0%9F%92%BB;Keep+learning+%F0%9F%8C%B1;Keep+building+%F0%9F%9A%80"/>
+
+<br><br>
+
+⭐ **If you like my projects, consider giving them a star!**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0d1117&height=150&section=footer" width="100%"/>
 
 </div>
