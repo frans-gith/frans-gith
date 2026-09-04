@@ -30,46 +30,17 @@
 
 # 🧑‍💻 About Me
 
-```javascript
-const fransiskus = {
-    name: "Fransiskus Oktavianus Bimo Prasetyo",
-    username: "frans-gith",
+## 🧑‍💻 About Me
 
-    role: "Web & Mobile Developer",
+Hello! I'm **Fransiskus Oktavianus Bimo Prasetyo**, a Web and Mobile Developer who is passionate about building digital applications and learning new technologies.
 
-    technologies: [
-        "Laravel",
-        "PHP",
-        "Flutter",
-        "Dart",
-        "MySQL",
-        "JavaScript"
-    ],
+I enjoy developing **web applications using Laravel and PHP**, as well as **mobile applications using Flutter and Dart**. I also have an interest in database management, UI/UX design, and information system development.
 
-    interests: [
-        "Web Development",
-        "Mobile Development",
-        "UI/UX",
-        "Database",
-        "Information Systems"
-    ],
+Currently, I'm focusing on improving my skills in **Laravel, Flutter, MySQL, REST API, UI/UX, and software engineering** by working on various projects and exploring new ideas.
 
-    currentlyLearning: [
-        "Laravel",
-        "Flutter",
-        "Software Engineering",
-        "Modern UI/UX"
-    ],
+I believe that every project is an opportunity to learn, improve, and create something useful.
 
-    mindset: "Learn • Build • Improve"
-};
-```
-
-I'm interested in building applications that are **functional, responsive, clean, and easy to use**.
-
-My main focus is developing **web applications with Laravel** and **mobile applications with Flutter**, while continuously improving my knowledge of databases, UI/UX, system architecture, and software engineering.
-
----
+> **Learn • Build • Improve • Repeat 🚀**
 
 # ⚡ Tech Stack
 
