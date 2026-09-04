@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:7c3aed&height=230&section=header&text=FRANSISKUS%20OKTAVIANUS&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=WEB%20%26%20MOBILE%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://i.pinimg.com/736x/2d/25/d7/2d25d7194859c7576b33ef1ec59aab9a.jpg" width="100%"/>
 
 <br>
 
