@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-frans--gith-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:EMAIL_KAMU">
+<a href="frans.obp12@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -42,7 +42,7 @@ Currently, I'm continuously learning and improving my development skills by buil
 
 ### 🌐 Web Development
 
-<img src="http://siakadbrud.infinityfreeapp.com/" />
+<img src="https://i.pinimg.com/1200x/ff/bd/dd/ffbddd37b2ceffe750fc534bfa11429d.jpg" />
 
 <br><br>
 
