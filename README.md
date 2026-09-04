@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=FRANSISKUS%20OKTAVIANUS&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" />
+<img src="https://id.pinterest.com/pin/13229392654366734/" />
 
 # 👋 Hello, I'm Fransiskus
 
