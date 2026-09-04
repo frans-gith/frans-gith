@@ -42,7 +42,7 @@ Currently, I'm continuously learning and improving my development skills by buil
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=php,laravel,html,css,tailwind,javascript&perline=6" />
+<img src="http://siakadbrud.infinityfreeapp.com/" />
 
 <br><br>
 
